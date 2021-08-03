@@ -1,6 +1,6 @@
 # Resources
 
-## General
+## Glossaries
 
 * [SAS Base Glossary](https://github.com/zanewubbena/sas-glossary)
 
